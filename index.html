@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>GAA — graph site index</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<style>
+			:root {
+				color-scheme: light dark;
+				--fg: #18181b;
+				--muted: #52525b;
+				--bg: #fafafa;
+				--card: #fff;
+				--line: #e4e4e7;
+			}
+			@media (prefers-color-scheme: dark) {
+				:root {
+					--fg: #f4f4f5;
+					--muted: #a1a1aa;
+					--bg: #18181b;
+					--card: #27272a;
+					--line: #3f3f46;
+				}
+			}
+			body {
+				margin: 0;
+				padding: 3rem 1.25rem;
+				background: var(--bg);
+				color: var(--fg);
+				font:
+					16px/1.6 system-ui,
+					sans-serif;
+			}
+			main {
+				max-width: 46rem;
+				margin: 0 auto;
+			}
+			h1 {
+				margin: 0 0 0.25rem;
+				font-size: 1.5rem;
+			}
+			p.lede {
+				margin: 0 0 2rem;
+				color: var(--muted);
+			}
+			h2 {
+				margin: 2rem 0 0.5rem;
+				font-size: 1rem;
+			}
+			code,
+			pre {
+				font-family: ui-monospace, monospace;
+				font-size: 0.875rem;
+			}
+			pre {
+				overflow-x: auto;
+				padding: 0.875rem 1rem;
+				border: 1px solid var(--line);
+				border-radius: 0.5rem;
+				background: var(--card);
+			}
+			a {
+				color: inherit;
+			}
+			footer {
+				margin-top: 3rem;
+				padding-top: 1rem;
+				border-top: 1px solid var(--line);
+				color: var(--muted);
+				font-size: 0.875rem;
+			}
+		</style>
+	</head>
+	<body>
+		<main>
+			<h1>GAA</h1>
+			<p class="lede">
+				A small directory of every known graph site and measurement database, rebuilt daily.
+			</p>
+
+			<h2>The index</h2>
+			<pre><code>db-site-index.json</code></pre>
+			<p>
+				Merged from
+				<a href="https://github.com/HarutoHiroki/GraphAggregator">GraphAggregator</a>'s
+				<code>aggregate-index.json</code> and squig.link's <code>squigsites.json</code>. It carries
+				the site and database directory only — no device corpus — so it stays a few kilobytes
+				rather than a few hundred.
+			</p>
+
+			<h2>Using it</h2>
+			<pre><code>const res = await fetch('https://potatosalad775.github.io/GAA/db-site-index.json');
+const { sites, dbs } = await res.json();</code></pre>
+
+			<footer>
+				Built from public data published by GraphAggregator and squig.link.
+				<a href="https://github.com/potatosalad775/GAA">Source</a>.
+			</footer>
+		</main>
+	</body>
+</html>
