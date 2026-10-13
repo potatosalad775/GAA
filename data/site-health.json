@@ -1,0 +1,1060 @@
+{
+	"v": 1,
+	"trackingSince": "2026-10-13",
+	"lastDigest": "2026-10",
+	"events": [],
+	"dbs": {
+		"https://achoreviews.squig.link/": {
+			"id": "squigsites:achoreviews:iems",
+			"siteName": "Acho Reviews",
+			"type": "IEMs",
+			"url": "https://achoreviews.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://aden.squig.link/": {
+			"id": "squigsites:aden:iems",
+			"siteName": "aden",
+			"type": "IEMs",
+			"url": "https://aden.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://aden.squig.link/headphones/": {
+			"id": "squigsites:aden:headphones",
+			"siteName": "aden",
+			"type": "Headphones",
+			"url": "https://aden.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://adri-n.squig.link/": {
+			"id": "squigsites:adri-n:iems",
+			"siteName": "Adri-N",
+			"type": "IEMs",
+			"url": "https://adri-n.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://aftersound.squig.link/": {
+			"id": "squigsites:aftersound:iems",
+			"siteName": "Aftersound",
+			"type": "IEMs",
+			"url": "https://aftersound.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://animagus.squig.link/": {
+			"id": "squigsites:animagus:iems",
+			"siteName": "Animagus",
+			"type": "IEMs",
+			"url": "https://animagus.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://ankramutt.squig.link/": {
+			"id": "squigsites:ankramutt:iems",
+			"siteName": "Ankramutt",
+			"type": "IEMs",
+			"url": "https://ankramutt.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://arc.squig.link/": {
+			"id": "squigsites:arc:iems",
+			"siteName": "Arc",
+			"type": "IEMs",
+			"url": "https://arc.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://arn.squig.link/": {
+			"id": "squigsites:arn:iems",
+			"siteName": "audioAI",
+			"type": "IEMs",
+			"url": "https://arn.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://atechreviews.squig.link/": {
+			"id": "squigsites:atechreviews:iems",
+			"siteName": "ATechReviews",
+			"type": "IEMs",
+			"url": "https://atechreviews.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://audioamigo.squig.link/": {
+			"id": "squigsites:audioamigo:iems",
+			"siteName": "Audio Amigo",
+			"type": "IEMs",
+			"url": "https://audioamigo.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://audioamigo.squig.link/headphones/": {
+			"id": "squigsites:audioamigo:headphones",
+			"siteName": "Audio Amigo",
+			"type": "Headphones",
+			"url": "https://audioamigo.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://auricularesargentina.squig.link/": {
+			"id": "squigsites:auricularesargentina:headphones",
+			"siteName": "Auriculares Argentina",
+			"type": "Headphones",
+			"url": "https://auricularesargentina.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://awsmdanny.squig.link/": {
+			"id": "squigsites:awsmdanny:iems",
+			"siteName": "AWSMDanny",
+			"type": "IEMs",
+			"url": "https://awsmdanny.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://bakkwatan.squig.link/": {
+			"id": "squigsites:bakkwatan:iems",
+			"siteName": "Bakkwatan",
+			"type": "IEMs",
+			"url": "https://bakkwatan.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://banzai1122.squig.link/": {
+			"id": "squigsites:banzai1122:iems",
+			"siteName": "banzai1122",
+			"type": "IEMs",
+			"url": "https://banzai1122.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://bassaudio.squig.link/": {
+			"id": "squigsites:bassaudio:iems",
+			"siteName": "Bass Audio",
+			"type": "IEMs",
+			"url": "https://bassaudio.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://bassyalexander.squig.link/": {
+			"id": "squigsites:bassyalexander:iems",
+			"siteName": "bassy Alexander",
+			"type": "IEMs",
+			"url": "https://bassyalexander.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://bedrock.squig.link/": {
+			"id": "squigsites:bedrock:iems",
+			"siteName": "Bedrock Reviews",
+			"type": "IEMs",
+			"url": "https://bedrock.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://bloomaudio.squig.link/": {
+			"id": "squigsites:bloomaudio:iems",
+			"siteName": "Bloom Audio",
+			"type": "IEMs",
+			"url": "https://bloomaudio.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://boizoff.squig.link/": {
+			"id": "squigsites:boizoff:iems",
+			"siteName": "boizoff",
+			"type": "IEMs",
+			"url": "https://boizoff.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://boizoff.squig.link/headphones/": {
+			"id": "squigsites:boizoff:headphones",
+			"siteName": "boizoff",
+			"type": "Headphones",
+			"url": "https://boizoff.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://breampike.squig.link/": {
+			"id": "squigsites:breampike:iems",
+			"siteName": "breampike",
+			"type": "IEMs",
+			"url": "https://breampike.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://bryaudioreviews.squig.link/": {
+			"id": "squigsites:bryaudioreviews:iems",
+			"siteName": "Bry Audio Reviews",
+			"type": "IEMs",
+			"url": "https://bryaudioreviews.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://bukanaudiophile.squig.link/": {
+			"id": "squigsites:bukanaudiophile:iems",
+			"siteName": "BukanAudiophile",
+			"type": "IEMs",
+			"url": "https://bukanaudiophile.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://cammyfi.squig.link/headphones-clone/": {
+			"id": "squigsites:cammyfi:headphones",
+			"siteName": "CammyFi",
+			"type": "Headphones",
+			"url": "https://cammyfi.squig.link/headphones-clone/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://cammyfi.squig.link/iems/": {
+			"id": "squigsites:cammyfi:iems",
+			"siteName": "CammyFi",
+			"type": "IEMs",
+			"url": "https://cammyfi.squig.link/iems/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://capraaudio.squig.link/Headphones/": {
+			"id": "squigsites:capraaudio:headphones",
+			"siteName": "Capra Audio",
+			"type": "Headphones",
+			"url": "https://capraaudio.squig.link/Headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://cqtek.squig.link/": {
+			"id": "squigsites:cqtek:iems",
+			"siteName": "Hi End Portable",
+			"type": "IEMs",
+			"url": "https://cqtek.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://csi-zone.squig.link/": {
+			"id": "squigsites:csi-zone:iems",
+			"siteName": "CSI-ZONE",
+			"type": "IEMs",
+			"url": "https://csi-zone.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://daemonxar.squig.link/": {
+			"id": "squigsites:daemonxar:headphones",
+			"siteName": "DaemonXar",
+			"type": "Headphones",
+			"url": "https://daemonxar.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://dchpgall.squig.link/": {
+			"id": "squigsites:dchpgall:iems",
+			"siteName": "Dcinside Headphone Gallery",
+			"type": "IEMs",
+			"url": "https://dchpgall.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://dentreviews.squig.link/": {
+			"id": "squigsites:dentreviews:iems",
+			"siteName": "dentReviews",
+			"type": "IEMs",
+			"url": "https://dentreviews.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://dhrme.squig.link/": {
+			"id": "squigsites:dhrme:iems",
+			"siteName": "DHRME",
+			"type": "IEMs",
+			"url": "https://dhrme.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://dhrme.squig.link/headphones/": {
+			"id": "squigsites:dhrme:headphones",
+			"siteName": "DHRME",
+			"type": "Headphones",
+			"url": "https://dhrme.squig.link/headphones/",
+			"firstSeen": "2026-10-13",
+			"unverifiedSince": "2026-10-13"
+		},
+		"https://digaoreviews.squig.link/": {
+			"id": "squigsites:digaoreviews:iems",
+			"siteName": "Digão Reviews",
+			"type": "IEMs",
+			"url": "https://digaoreviews.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://dl.squig.link/": {
+			"id": "squigsites:dl:iems",
+			"siteName": "Dung Le",
+			"type": "IEMs",
+			"url": "https://dl.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://dl.squig.link/headphones/": {
+			"id": "squigsites:dl:headphones",
+			"siteName": "Dung Le",
+			"type": "Headphones",
+			"url": "https://dl.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://doltonius.squig.link/": {
+			"id": "squigsites:doltonius:iems",
+			"siteName": "Doltonius",
+			"type": "IEMs",
+			"url": "https://doltonius.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://ducbloke.squig.link/": {
+			"id": "squigsites:ducbloke:iems",
+			"siteName": "DucBloke",
+			"type": "IEMs",
+			"url": "https://ducbloke.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://dvewlsh.squig.link/": {
+			"id": "squigsites:dvewlsh:iems",
+			"siteName": "dvewlsh",
+			"type": "IEMs",
+			"url": "https://dvewlsh.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://earphonesarchive.squig.link/": {
+			"id": "squigsites:root:earphonesarchive:5128",
+			"siteName": "Earphones Archive (IEMs)",
+			"type": "5128",
+			"url": "https://earphonesarchive.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://earphonesarchive.squig.link/headphones/": {
+			"id": "squigsites:headphones:earphonesarchive:5128",
+			"siteName": "Earphones Archive (headphones)",
+			"type": "5128",
+			"url": "https://earphonesarchive.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://ekaudio.squig.link/": {
+			"id": "squigsites:ekaudio:iems",
+			"siteName": "EKaudio",
+			"type": "IEMs",
+			"url": "https://ekaudio.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://eliseaudio.squig.link/": {
+			"id": "squigsites:eliseaudio:iems",
+			"siteName": "Elise Audio",
+			"type": "IEMs",
+			"url": "https://eliseaudio.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://enemyspider.squig.link/": {
+			"id": "squigsites:enemyspider:iems",
+			"siteName": "EnemySpider",
+			"type": "IEMs",
+			"url": "https://enemyspider.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://eplv.squig.link/": {
+			"id": "squigsites:eplv:iems",
+			"siteName": "EPLV",
+			"type": "IEMs",
+			"url": "https://eplv.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://fahryst.squig.link/": {
+			"id": "squigsites:fahryst:iems",
+			"siteName": "Fahryst",
+			"type": "IEMs",
+			"url": "https://fahryst.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://faxepremium.squig.link/": {
+			"id": "squigsites:faxepremium:iems",
+			"siteName": "faxepremium",
+			"type": "IEMs",
+			"url": "https://faxepremium.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://filk.squig.link/": {
+			"id": "squigsites:filk:headphones",
+			"siteName": "Filk",
+			"type": "Headphones",
+			"url": "https://filk.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://filk.squig.link/iems/": {
+			"id": "squigsites:filk:iems",
+			"siteName": "Filk",
+			"type": "IEMs",
+			"url": "https://filk.squig.link/iems/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://flare.squig.link/": {
+			"id": "squigsites:flare:iems",
+			"siteName": "Flare",
+			"type": "IEMs",
+			"url": "https://flare.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://foxtoldmeso.squig.link/": {
+			"id": "squigsites:root:foxtoldmeso:5128",
+			"siteName": "Fox Told Me So (IEMs)",
+			"type": "5128",
+			"url": "https://foxtoldmeso.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://foxtoldmeso.squig.link/headphones/": {
+			"id": "squigsites:headphones:foxtoldmeso:5128",
+			"siteName": "Fox Told Me So (headphones)",
+			"type": "5128",
+			"url": "https://foxtoldmeso.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://freeryder05.squig.link/": {
+			"id": "squigsites:freeryder05:iems",
+			"siteName": "freeryder05",
+			"type": "IEMs",
+			"url": "https://freeryder05.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://gadgetgenerations.squig.link/": {
+			"id": "squigsites:gadgetgenerations:iems",
+			"siteName": "Gadget Generations",
+			"type": "IEMs",
+			"url": "https://gadgetgenerations.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://gadgetrytech.squig.link/": {
+			"id": "squigsites:gadgetrytech:iems",
+			"siteName": "Gadgetry Tech",
+			"type": "IEMs",
+			"url": "https://gadgetrytech.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://gadgetrytech.squig.link/headsets/": {
+			"id": "squigsites:gadgetrytech:headphones",
+			"siteName": "Gadgetry Tech",
+			"type": "Headphones",
+			"url": "https://gadgetrytech.squig.link/headsets/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://graph.hangout.audio/headphones/": {
+			"id": "squigsites:crinacle:headphones",
+			"siteName": "Hangout.Audio",
+			"type": "Headphones",
+			"url": "https://graph.hangout.audio/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://graph.hangout.audio/iem/5128/": {
+			"id": "squigsites:crinacle:5128",
+			"siteName": "Hangout.Audio",
+			"type": "5128",
+			"url": "https://graph.hangout.audio/iem/5128/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://graph.hangout.audio/iem/711/": {
+			"id": "squigsites:crinacle:iems",
+			"siteName": "Hangout.Audio",
+			"type": "IEMs",
+			"url": "https://graph.hangout.audio/iem/711/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://graphtool.harutohiroki.com/": {
+			"id": "harutohiroki:iems:clone-711-iem",
+			"siteName": "HarutoHiroki",
+			"type": "IEMs",
+			"url": "https://graphtool.harutohiroki.com/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://hadoe.squig.link/": {
+			"id": "squigsites:hadoe:iems",
+			"siteName": "Hadoe",
+			"type": "IEMs",
+			"url": "https://hadoe.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://hadoe.squig.link/earbuds/": {
+			"id": "squigsites:hadoe:earbuds",
+			"siteName": "Hadoe",
+			"type": "Earbuds",
+			"url": "https://hadoe.squig.link/earbuds/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://hadoe.squig.link/headphones/": {
+			"id": "squigsites:hadoe:headphones",
+			"siteName": "Hadoe",
+			"type": "Headphones",
+			"url": "https://hadoe.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://harpo.squig.link/": {
+			"id": "squigsites:harpo:iems",
+			"siteName": "Harpo",
+			"type": "IEMs",
+			"url": "https://harpo.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://hbb.squig.link/": {
+			"id": "squigsites:hbb:iems",
+			"siteName": "Hawaii Bad Boy",
+			"type": "IEMs",
+			"url": "https://hbb.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://hobbytalk.squig.link/": {
+			"id": "squigsites:hobbytalk:iems",
+			"siteName": "Hobby Talk",
+			"type": "IEMs",
+			"url": "https://hobbytalk.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://hore.squig.link/": {
+			"id": "squigsites:hore:iems",
+			"siteName": "Hore",
+			"type": "IEMs",
+			"url": "https://hore.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://hu-fi.squig.link/": {
+			"id": "squigsites:hu-fi:iems",
+			"siteName": "Hu-Fi",
+			"type": "IEMs",
+			"url": "https://hu-fi.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://ianfann.squig.link/": {
+			"id": "squigsites:ianfann:iems",
+			"siteName": "ianfann",
+			"type": "IEMs",
+			"url": "https://ianfann.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://ideru.squig.link/": {
+			"id": "squigsites:ideru:iems",
+			"siteName": "Ideru",
+			"type": "IEMs",
+			"url": "https://ideru.squig.link/",
+			"firstSeen": "2026-10-13",
+			"unverifiedSince": "2026-10-13"
+		},
+		"https://iemocean.squig.link/": {
+			"id": "squigsites:iemocean:iems",
+			"siteName": "IEM Ocean",
+			"type": "IEMs",
+			"url": "https://iemocean.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://iemworld.squig.link/": {
+			"id": "squigsites:iemworld:iems",
+			"siteName": "IEM World",
+			"type": "IEMs",
+			"url": "https://iemworld.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://iemworld.squig.link/headphones/": {
+			"id": "squigsites:iemworld:headphones",
+			"siteName": "IEM World",
+			"type": "Headphones",
+			"url": "https://iemworld.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://isaiahse.squig.link/": {
+			"id": "squigsites:isaiahse:iems",
+			"siteName": "Isaiah SE",
+			"type": "IEMs",
+			"url": "https://isaiahse.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://ish.squig.link/": {
+			"id": "squigsites:ish:headphones",
+			"siteName": "Kyle @ Den-Fi",
+			"type": "Headphones",
+			"url": "https://ish.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://jacstone.squig.link/": {
+			"id": "squigsites:jacstone:iems",
+			"siteName": "Jacstone",
+			"type": "IEMs",
+			"url": "https://jacstone.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://jaytiss.squig.link/": {
+			"id": "squigsites:jaytiss:iems",
+			"siteName": "Jaytiss",
+			"type": "IEMs",
+			"url": "https://jaytiss.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://joshtbvo.squig.link/": {
+			"id": "squigsites:joshtbvo:iems",
+			"siteName": "JoshTBVO",
+			"type": "IEMs",
+			"url": "https://joshtbvo.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://kazi.squig.link/": {
+			"id": "squigsites:kazi:iems",
+			"siteName": "Kazi",
+			"type": "IEMs",
+			"url": "https://kazi.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://kr0mka.squig.link/": {
+			"id": "squigsites:kr0mka:iems",
+			"siteName": "kr0mka",
+			"type": "IEMs",
+			"url": "https://kr0mka.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://kr0mka.squig.link/headphones/": {
+			"id": "squigsites:kr0mka:headphones",
+			"siteName": "kr0mka",
+			"type": "Headphones",
+			"url": "https://kr0mka.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://kuping-sensi.squig.link/": {
+			"id": "squigsites:kuping-sensi:iems",
+			"siteName": "Kuping Sensi",
+			"type": "IEMs",
+			"url": "https://kuping-sensi.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://kuulokenurkka.squig.link/": {
+			"id": "squigsites:kuulokenurkka:headphones",
+			"siteName": "Kuulokenurkka",
+			"type": "Headphones",
+			"url": "https://kuulokenurkka.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://lestat.squig.link/": {
+			"id": "squigsites:lestat:iems",
+			"siteName": "Lestat",
+			"type": "IEMs",
+			"url": "https://lestat.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://listener.squig.link/": {
+			"id": "squigsites:listener:headphones",
+			"siteName": "listener",
+			"type": "Headphones",
+			"url": "https://listener.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://listener.squig.link/5128/": {
+			"id": "squigsites:listener:5128",
+			"siteName": "listener",
+			"type": "5128",
+			"url": "https://listener.squig.link/5128/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://listener.squig.link/iems/": {
+			"id": "squigsites:listener:iems",
+			"siteName": "listener",
+			"type": "IEMs",
+			"url": "https://listener.squig.link/iems/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://loomynarty.squig.link/": {
+			"id": "squigsites:loomynarty:iems",
+			"siteName": "Loomynarty",
+			"type": "IEMs",
+			"url": "https://loomynarty.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://lown-fi.squig.link/": {
+			"id": "squigsites:lown-fi:iems",
+			"siteName": "lown-fi",
+			"type": "IEMs",
+			"url": "https://lown-fi.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://lumerion.squig.link/": {
+			"id": "squigsites:lumerion:iems",
+			"siteName": "Lumerion",
+			"type": "IEMs",
+			"url": "https://lumerion.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://melatonin.squig.link/": {
+			"id": "squigsites:melatonin:iems",
+			"siteName": "Melatonin",
+			"type": "IEMs",
+			"url": "https://melatonin.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://mmagtech.squig.link/": {
+			"id": "squigsites:mmagtech:iems",
+			"siteName": "MMagTech",
+			"type": "IEMs",
+			"url": "https://mmagtech.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://musicafe.squig.link/": {
+			"id": "squigsites:musicafe:iems",
+			"siteName": "MusiCafé",
+			"type": "IEMs",
+			"url": "https://musicafe.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://nymz.squig.link/": {
+			"id": "squigsites:nymz:iems",
+			"siteName": "nymz",
+			"type": "IEMs",
+			"url": "https://nymz.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://obodio.squig.link/": {
+			"id": "squigsites:obodio:iems",
+			"siteName": "OB Odio",
+			"type": "IEMs",
+			"url": "https://obodio.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://practiphile.squig.link/": {
+			"id": "squigsites:practiphile:iems",
+			"siteName": "Practiphile",
+			"type": "IEMs",
+			"url": "https://practiphile.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://precog.squig.link/": {
+			"id": "squigsites:precog:iems",
+			"siteName": "Precogvision",
+			"type": "IEMs",
+			"url": "https://precog.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://pw.squig.link/": {
+			"id": "squigsites:pw:iems",
+			"siteName": "Paul Wasabi",
+			"type": "IEMs",
+			"url": "https://pw.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://ragnarok.squig.link/": {
+			"id": "squigsites:ragnarok:iems",
+			"siteName": "Ragnarok",
+			"type": "IEMs",
+			"url": "https://ragnarok.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://ragnarok.squig.link/headphones/": {
+			"id": "squigsites:ragnarok:headphones",
+			"siteName": "Ragnarok",
+			"type": "Headphones",
+			"url": "https://ragnarok.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://recode.squig.link/": {
+			"id": "squigsites:recode:iems",
+			"siteName": "Recode",
+			"type": "IEMs",
+			"url": "https://recode.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://regancipher.squig.link/": {
+			"id": "squigsites:regancipher:iems",
+			"siteName": "Regan Cipher",
+			"type": "IEMs",
+			"url": "https://regancipher.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://rg.squig.link/": {
+			"id": "squigsites:rg:iems",
+			"siteName": "RikudouGoku",
+			"type": "IEMs",
+			"url": "https://rg.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://riz.squig.link/": {
+			"id": "squigsites:riz:iems",
+			"siteName": "Riz",
+			"type": "IEMs",
+			"url": "https://riz.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://sai.squig.link/": {
+			"id": "squigsites:sai:headphones",
+			"siteName": "Unheard Lab",
+			"type": "Headphones",
+			"url": "https://sai.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://samreviews.squig.link/": {
+			"id": "squigsites:samreviews:iems",
+			"siteName": "Sam Reviews",
+			"type": "IEMs",
+			"url": "https://samreviews.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://scboy.squig.link/": {
+			"id": "squigsites:scboy:iems",
+			"siteName": "SCBoy",
+			"type": "IEMs",
+			"url": "https://scboy.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://seanwee.squig.link/": {
+			"id": "squigsites:seanwee:iems",
+			"siteName": "Sean Wee",
+			"type": "IEMs",
+			"url": "https://seanwee.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://silicagel.squig.link/": {
+			"id": "squigsites:silicagel:iems",
+			"siteName": "SilicaGel",
+			"type": "IEMs",
+			"url": "https://silicagel.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://silicagel.squig.link/earbuds/": {
+			"id": "squigsites:silicagel:earbuds",
+			"siteName": "SilicaGel",
+			"type": "Earbuds",
+			"url": "https://silicagel.squig.link/earbuds/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://silicagel.squig.link/headphones/": {
+			"id": "squigsites:silicagel:headphones",
+			"siteName": "SilicaGel",
+			"type": "Headphones",
+			"url": "https://silicagel.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://sl0the.squig.link/": {
+			"id": "squigsites:sl0the:iems",
+			"siteName": "sl0the",
+			"type": "IEMs",
+			"url": "https://sl0the.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://smirk.squig.link/": {
+			"id": "squigsites:smirk:iems",
+			"siteName": "Smirk",
+			"type": "IEMs",
+			"url": "https://smirk.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://soundcheck39.squig.link/": {
+			"id": "squigsites:soundcheck39:iems",
+			"siteName": "Soundcheck39",
+			"type": "IEMs",
+			"url": "https://soundcheck39.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://soundignity.squig.link/": {
+			"id": "squigsites:soundignity:iems",
+			"siteName": "Soundignity",
+			"type": "IEMs",
+			"url": "https://soundignity.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/": {
+			"id": "squigsites:superreview:iems",
+			"siteName": "Super* Review",
+			"type": "IEMs",
+			"url": "https://squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/earbuds/": {
+			"id": "squigsites:superreview:earbuds",
+			"siteName": "Super* Review",
+			"type": "Earbuds",
+			"url": "https://squig.link/earbuds/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/headphones/": {
+			"id": "squigsites:superreview:headphones",
+			"siteName": "Super* Review",
+			"type": "Headphones",
+			"url": "https://squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/aquaphobic/": {
+			"id": "squigsites:aquaphobic:iems",
+			"siteName": "Aquaphobic",
+			"type": "IEMs",
+			"url": "https://squig.link/lab/aquaphobic/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/avishai/": {
+			"id": "squigsites:avishai:iems",
+			"siteName": "avishai",
+			"type": "IEMs",
+			"url": "https://squig.link/lab/avishai/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/elrics/": {
+			"id": "squigsites:elrics:iems",
+			"siteName": "Elrics",
+			"type": "IEMs",
+			"url": "https://squig.link/lab/elrics/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/elrics/headphones/": {
+			"id": "squigsites:elrics:headphones",
+			"siteName": "Elrics",
+			"type": "Headphones",
+			"url": "https://squig.link/lab/elrics/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/fernandagunsan/": {
+			"id": "squigsites:fernandagunsan:iems",
+			"siteName": "Fernanda Gunsan",
+			"type": "IEMs",
+			"url": "https://squig.link/lab/fernandagunsan/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/hana/": {
+			"id": "squigsites:hana:iems",
+			"siteName": "Hana",
+			"type": "IEMs",
+			"url": "https://squig.link/lab/hana/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/harutohiroki/": {
+			"id": "squigsites:harutohiroki:iems",
+			"siteName": "HarutoHiroki",
+			"type": "IEMs",
+			"url": "https://squig.link/lab/harutohiroki/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/hoods/": {
+			"id": "squigsites:hoods:iems",
+			"siteName": "Hoods",
+			"type": "IEMs",
+			"url": "https://squig.link/lab/hoods/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/jaraba/": {
+			"id": "squigsites:jaraba:iems",
+			"siteName": "JaRaBa",
+			"type": "IEMs",
+			"url": "https://squig.link/lab/jaraba/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/joycesreview/": {
+			"id": "squigsites:joycesreview:iems",
+			"siteName": "Joyce's Review",
+			"type": "IEMs",
+			"url": "https://squig.link/lab/joycesreview/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/koi/": {
+			"id": "squigsites:koi:iems",
+			"siteName": "KOI",
+			"type": "IEMs",
+			"url": "https://squig.link/lab/koi/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/tdl/": {
+			"id": "squigsites:tdl:iems",
+			"siteName": "TDL",
+			"type": "IEMs",
+			"url": "https://squig.link/lab/tdl/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://squig.link/lab/zerostresslevel/": {
+			"id": "squigsites:zerostresslevel:iems",
+			"siteName": "zerostresslevel",
+			"type": "IEMs",
+			"url": "https://squig.link/lab/zerostresslevel/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://suporsalad.squig.link/": {
+			"id": "squigsites:suporsalad:iems",
+			"siteName": "Side Salad Audio",
+			"type": "IEMs",
+			"url": "https://suporsalad.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://suporsalad.squig.link/headphones/": {
+			"id": "squigsites:suporsalad:headphones",
+			"siteName": "Side Salad Audio",
+			"type": "Headphones",
+			"url": "https://suporsalad.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://takeitslow7.squig.link/": {
+			"id": "squigsites:takeitslow7:iems",
+			"siteName": "takeitslow7",
+			"type": "IEMs",
+			"url": "https://takeitslow7.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://tanchjim.squig.link/": {
+			"id": "squigsites:tanchjim:iems",
+			"siteName": "Tanchjim",
+			"type": "IEMs",
+			"url": "https://tanchjim.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://tedthepraimortis.squig.link/": {
+			"id": "squigsites:tedthepraimortis:iems",
+			"siteName": "Ted's Squig Hoard",
+			"type": "IEMs",
+			"url": "https://tedthepraimortis.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://tgx78.squig.link/": {
+			"id": "squigsites:tgx78:iems",
+			"siteName": "tgx78",
+			"type": "IEMs",
+			"url": "https://tgx78.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://theaudiostore.squig.link/": {
+			"id": "squigsites:theaudiostore:iems",
+			"siteName": "The Audio Store",
+			"type": "IEMs",
+			"url": "https://theaudiostore.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://therollo9.squig.link/": {
+			"id": "squigsites:therollo9:iems",
+			"siteName": "therollo9",
+			"type": "IEMs",
+			"url": "https://therollo9.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://therollo9.squig.link/headphones/": {
+			"id": "squigsites:therollo9:headphones",
+			"siteName": "therollo9",
+			"type": "Headphones",
+			"url": "https://therollo9.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://timmyv.squig.link/": {
+			"id": "squigsites:timmyv:iems",
+			"siteName": "TimTuned",
+			"type": "IEMs",
+			"url": "https://timmyv.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://tonedeafmonk.squig.link/": {
+			"id": "squigsites:tonedeafmonk:iems",
+			"siteName": "ToneDeafMonk",
+			"type": "IEMs",
+			"url": "https://tonedeafmonk.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://treblewellxtended.squig.link/": {
+			"id": "squigsites:treblewellxtended:iems",
+			"siteName": "Treble Well Xtended",
+			"type": "IEMs",
+			"url": "https://treblewellxtended.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://vortexreviews.squig.link/": {
+			"id": "squigsites:vortexreviews:iems",
+			"siteName": "Vortex Reviews",
+			"type": "IEMs",
+			"url": "https://vortexreviews.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://vsg.squig.link/": {
+			"id": "squigsites:vsg:iems",
+			"siteName": "VSG",
+			"type": "IEMs",
+			"url": "https://vsg.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://vsg.squig.link/headphones/": {
+			"id": "squigsites:vsg:headphones",
+			"siteName": "VSG",
+			"type": "Headphones",
+			"url": "https://vsg.squig.link/headphones/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://yanyin.squig.link/": {
+			"id": "squigsites:yanyin:iems",
+			"siteName": "Yanyin",
+			"type": "IEMs",
+			"url": "https://yanyin.squig.link/",
+			"firstSeen": "2026-10-13"
+		},
+		"https://yoshiultra.squig.link/": {
+			"id": "squigsites:yoshiultra:iems",
+			"siteName": "yoshi ultra",
+			"type": "IEMs",
+			"url": "https://yoshiultra.squig.link/",
+			"firstSeen": "2026-10-13"
+		}
+	}
+}
