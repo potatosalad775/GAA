@@ -101,10 +101,27 @@ The build runs daily at **08:00 UTC**, deliberately after GraphAggregator's own 
 each run picks up that day's crawl rather than the previous day's. Worst-case age of federated data
 is roughly one aggregator cycle plus two hours.
 
-Nothing is committed back to this repo — the index is built fresh and deployed straight to Pages.
+The index itself is never committed — it is built fresh and deployed straight to Pages.
 Both sources are required: if either is unreachable, or the merge comes out empty, the build exits
 non-zero without publishing and **the previous deployment keeps serving**. Stale beats empty for a
 navigation menu.
+
+## Registry health
+
+The index only says whether a database is reachable *today*. To tell a one-day blip from a site
+that has been gone for months, a second job keeps a running history in
+[`data/site-health.json`](data/site-health.json): when each database was first seen, since when it
+has been unverified, and this month's additions, removals, outages and recoveries.
+
+That file is committed only when one of those changes — quiet days produce no commit. On the first
+run of each month the previous month is summarised in [`HEALTH.md`](HEALTH.md), including every
+database that has been unreachable for 30+ days: registered upstream, but likely dead, and worth
+reporting to GraphAggregator or squig.link for cleanup.
+
+The monthly digest commit also keeps GitHub from disabling the daily schedule after 60 days without
+repository activity. The health job runs separately from the deploy, so if it fails, the index
+still ships. If more than a quarter of known databases vanish in one run, it refuses to record
+that as removals, on the assumption that something upstream broke.
 
 ## Running it locally
 
@@ -112,12 +129,19 @@ navigation menu.
 node scripts/build-site-index.mjs --out dist/db-site-index.json
 ```
 
-Prints a summary and lists any unverified databases on stderr.
+Prints a summary and lists any unverified databases on stderr. To update the health history from
+that build:
+
+```sh
+node scripts/update-health.mjs --index dist/db-site-index.json
+```
 
 ## Self-hosting
 
 Fork, enable Actions and set **Settings → Pages → Source** to *GitHub Actions*, then run the workflow
-once from the Actions tab. There's nothing else to configure — no registry, no secrets, no tokens.
+once from the Actions tab. There's nothing else to configure — no registry, no secrets, no tokens. The health job pushes to
+`main` with the workflow's own token, so if you protect that branch, allow GitHub Actions to push.
+Delete `data/` and `HEALTH.md` in your fork to start your own history.
 Update the URL in `index.html` to match your fork.
 
 ## Credits

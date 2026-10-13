@@ -6,7 +6,8 @@
   "description": "Merges GraphAggregator and squigsites.json into a small site/database directory for graph tools.",
   "license": "MPL-2.0",
   "scripts": {
-    "build": "node scripts/build-site-index.mjs"
+    "build": "node scripts/build-site-index.mjs",
+    "health": "node scripts/update-health.mjs"
   },
   "engines": {
     "node": ">=20"

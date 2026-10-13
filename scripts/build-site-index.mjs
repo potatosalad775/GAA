@@ -24,6 +24,7 @@
 
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { dirname } from 'node:path';
+import { dbKey } from './db-key.mjs';
 
 const SCHEMA_VERSION = 1;
 
@@ -58,27 +59,6 @@ function clean(value, max = 120) {
 	if (typeof value !== 'string') return null;
 	const trimmed = value.replace(CONTROL_CHARS, '').trim().slice(0, max);
 	return trimmed.length ? trimmed : null;
-}
-
-/**
- * Join key for a database. The two sources mint different ids for the same
- * database, but both resolve it to the same URL — squigsites via `urlType` +
- * folder, the aggregate index by stripping the filename off `phoneBookUrl` —
- * so the URL is what actually identifies it. Normalized to one trailing slash,
- * lowercase host, no query or fragment.
- */
-function dbKey(url) {
-	let parsed;
-	try {
-		parsed = new URL(url);
-	} catch {
-		return null;
-	}
-	if (parsed.protocol !== 'http:' && parsed.protocol !== 'https:') return null;
-
-	const path = parsed.pathname.replace(/\/+$/, '') + '/';
-	const port = parsed.port ? ':' + parsed.port : '';
-	return `${parsed.protocol}//${parsed.hostname.toLowerCase()}${port}${path}`;
 }
 
 async function fetchJson(url) {
