@@ -2,7 +2,15 @@
 	"v": 1,
 	"trackingSince": "2026-10-13",
 	"lastDigest": "2026-10",
-	"events": [],
+	"events": [
+		{
+			"date": "2026-10-24",
+			"kind": "added",
+			"key": "https://headphonezone.squig.link/",
+			"label": "Headphone Zone (IEMs)",
+			"url": "https://headphonezone.squig.link/"
+		}
+	],
 	"dbs": {
 		"https://achoreviews.squig.link/": {
 			"id": "squigsites:achoreviews:iems",
@@ -473,6 +481,13 @@
 			"type": "IEMs",
 			"url": "https://hbb.squig.link/",
 			"firstSeen": "2026-10-13"
+		},
+		"https://headphonezone.squig.link/": {
+			"id": "squigsites:headphonezone:iems",
+			"siteName": "Headphone Zone",
+			"type": "IEMs",
+			"url": "https://headphonezone.squig.link/",
+			"firstSeen": "2026-10-24"
 		},
 		"https://hobbytalk.squig.link/": {
 			"id": "squigsites:hobbytalk:iems",
