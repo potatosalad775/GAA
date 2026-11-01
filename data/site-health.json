@@ -1,16 +1,8 @@
 {
 	"v": 1,
 	"trackingSince": "2026-10-13",
-	"lastDigest": "2026-10",
-	"events": [
-		{
-			"date": "2026-10-24",
-			"kind": "added",
-			"key": "https://headphonezone.squig.link/",
-			"label": "Headphone Zone (IEMs)",
-			"url": "https://headphonezone.squig.link/"
-		}
-	],
+	"lastDigest": "2026-11",
+	"events": [],
 	"dbs": {
 		"https://achoreviews.squig.link/": {
 			"id": "squigsites:achoreviews:iems",
