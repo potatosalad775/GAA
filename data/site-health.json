@@ -2,7 +2,22 @@
 	"v": 1,
 	"trackingSince": "2026-10-13",
 	"lastDigest": "2026-11",
-	"events": [],
+	"events": [
+		{
+			"date": "2026-11-23",
+			"kind": "unreachable",
+			"key": "https://squig.link/lab/hoods/",
+			"label": "Hoods (IEMs)",
+			"url": "https://squig.link/lab/hoods/"
+		},
+		{
+			"date": "2026-11-23",
+			"kind": "unreachable",
+			"key": "https://ragnarok.squig.link/headphones/",
+			"label": "Ragnarok (Headphones)",
+			"url": "https://ragnarok.squig.link/headphones/"
+		}
+	],
 	"dbs": {
 		"https://achoreviews.squig.link/": {
 			"id": "squigsites:achoreviews:iems",
@@ -725,7 +740,8 @@
 			"siteName": "Ragnarok",
 			"type": "Headphones",
 			"url": "https://ragnarok.squig.link/headphones/",
-			"firstSeen": "2026-10-13"
+			"firstSeen": "2026-10-13",
+			"unverifiedSince": "2026-11-23"
 		},
 		"https://recode.squig.link/": {
 			"id": "squigsites:recode:iems",
@@ -907,7 +923,8 @@
 			"siteName": "Hoods",
 			"type": "IEMs",
 			"url": "https://squig.link/lab/hoods/",
-			"firstSeen": "2026-10-13"
+			"firstSeen": "2026-10-13",
+			"unverifiedSince": "2026-11-23"
 		},
 		"https://squig.link/lab/jaraba/": {
 			"id": "squigsites:jaraba:iems",
