@@ -16,6 +16,20 @@
 			"key": "https://ragnarok.squig.link/headphones/",
 			"label": "Ragnarok (Headphones)",
 			"url": "https://ragnarok.squig.link/headphones/"
+		},
+		{
+			"date": "2026-11-24",
+			"kind": "recovered",
+			"key": "https://squig.link/lab/hoods/",
+			"label": "Hoods (IEMs)",
+			"url": "https://squig.link/lab/hoods/"
+		},
+		{
+			"date": "2026-11-24",
+			"kind": "recovered",
+			"key": "https://ragnarok.squig.link/headphones/",
+			"label": "Ragnarok (Headphones)",
+			"url": "https://ragnarok.squig.link/headphones/"
 		}
 	],
 	"dbs": {
@@ -740,8 +754,7 @@
 			"siteName": "Ragnarok",
 			"type": "Headphones",
 			"url": "https://ragnarok.squig.link/headphones/",
-			"firstSeen": "2026-10-13",
-			"unverifiedSince": "2026-11-23"
+			"firstSeen": "2026-10-13"
 		},
 		"https://recode.squig.link/": {
 			"id": "squigsites:recode:iems",
@@ -923,8 +936,7 @@
 			"siteName": "Hoods",
 			"type": "IEMs",
 			"url": "https://squig.link/lab/hoods/",
-			"firstSeen": "2026-10-13",
-			"unverifiedSince": "2026-11-23"
+			"firstSeen": "2026-10-13"
 		},
 		"https://squig.link/lab/jaraba/": {
 			"id": "squigsites:jaraba:iems",
