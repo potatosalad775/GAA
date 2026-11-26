@@ -37,6 +37,20 @@
 			"key": "https://ideru.squig.link/headphones/",
 			"label": "Ideru (Headphones)",
 			"url": "https://ideru.squig.link/headphones/"
+		},
+		{
+			"date": "2026-11-26",
+			"kind": "recovered",
+			"key": "https://ideru.squig.link/headphones/",
+			"label": "Ideru (Headphones)",
+			"url": "https://ideru.squig.link/headphones/"
+		},
+		{
+			"date": "2026-11-26",
+			"kind": "recovered",
+			"key": "https://ideru.squig.link/",
+			"label": "Ideru (IEMs)",
+			"url": "https://ideru.squig.link/"
 		}
 	],
 	"dbs": {
@@ -550,16 +564,14 @@
 			"siteName": "Ideru",
 			"type": "IEMs",
 			"url": "https://ideru.squig.link/",
-			"firstSeen": "2026-10-13",
-			"unverifiedSince": "2026-10-13"
+			"firstSeen": "2026-10-13"
 		},
 		"https://ideru.squig.link/headphones/": {
 			"id": "squigsites:ideru:headphones",
 			"siteName": "Ideru",
 			"type": "Headphones",
 			"url": "https://ideru.squig.link/headphones/",
-			"firstSeen": "2026-11-25",
-			"unverifiedSince": "2026-11-25"
+			"firstSeen": "2026-11-25"
 		},
 		"https://iemocean.squig.link/": {
 			"id": "squigsites:iemocean:iems",
